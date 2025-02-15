@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Lenovo IdeaPad Slim 3 15AMN8 Ryzen 5 7520U 15.6 FHD TN Laptop",
+        "description": "High performance laptop.",
+        "price": 1000,
+        "image": "./images/laptop.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Lenovo IdeaPad Slim 3 Ryzen 5 7520U 14 FHD Laptop",
+        "description": "High performance laptop.",
+        "price": 999.65,
+        "image": "./images/laptop-1.png"
+    },
+    {
+        "id": 3,
+        "name": "Lenovo IdeaPad Slim 3 Ryzen 5 7520U 15.6 FHD Laptop",
+        "description": "High performance laptop.",
+        "price": 700.85,
+        "image": "./images/laptop-2.png"
+    },
+    {
+        "id": 4,
+        "name": "HP 15-fc0296AU AMD Ryzen 3 7320U 15.6 HD Laptop",
+        "description": "High performance laptop.",
+        "price": 600.35,
+        "image": "./images/laptop-3.png"
+    },
+    {
+        "id": 5,
+        "name": "Lenovo IdeaPad Slim 3 Ryzen 5 7520U 15.6 FHD Laptop",
+        "description": "High performance laptop.",
+        "price": 500.65,
+        "image": "./images/laptop-4.png"
+    }
+]
